@@ -9,5 +9,4 @@ Maybe first step is to collect various materials that could help find something 
 
 
 * [Brainstorming document](https://etherpad.net/p/githubdissertation "Brainstorming document")
-
 * [Digital Humanities Questions & Answers - does the job already?](http://digitalhumanities.org/answers/)
