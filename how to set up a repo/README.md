@@ -3,6 +3,9 @@
 A collection of links and resources for useful tricks in setting up a good repository.
 
 
+# Git tutorials
+* [Git for Scientists: A Tutorial](http://nyuccl.org/pages/GitTutorial/)
+* [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 
 
 * [Cookiecutter Data Science: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.](https://drivendata.github.io/cookiecutter-data-science/ "A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.")
