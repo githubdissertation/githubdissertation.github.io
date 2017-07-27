@@ -12,8 +12,8 @@ A collection of links and resources for useful tricks in setting up a good repos
 
 ## Twitter threads on repository practices
 
-[Jeff Rouder: Is there good work on how to organize a repository for academic work?  I find each of mine are too idiosyncratic.  Are there standards?] (https://twitter.com/JeffRouder/status/816283816549433344)
-[Michael Frank: Getting researchers on board with repos] (http://babieslearninglanguage.blogspot.com.ee/2017/01/onboarding.html)
+[Jeff Rouder: Is there good work on how to organize a repository for academic work?  I find each of mine are too idiosyncratic.  Are there standards?](https://twitter.com/JeffRouder/status/816283816549433344)
+[Michael Frank: Getting researchers on board with repos](http://babieslearninglanguage.blogspot.com.ee/2017/01/onboarding.html)
 
 ## In support of plain text science
 [Kieran Healy: The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html)
